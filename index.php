@@ -51,6 +51,7 @@ $data = $dbcon->query($sql);
         </div>
     </div>
 </section>
+<!-- Added new comment -->
 <footer>
     <div class="container">
         <div class="row">
